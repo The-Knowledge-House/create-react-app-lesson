@@ -133,7 +133,7 @@ function App() {
 export default App;
 ```
 
-Modify `Product.js` to access the props recieved from the parent `App` component:
+Now we adjust `School.js` to access the props recieved from the parent `App` component:
 
 ```js
 import React from 'react';
